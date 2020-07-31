@@ -38,4 +38,4 @@ module.exports = [
         duration: '54 min',
         price: 'Free'
     }
-]
+] 

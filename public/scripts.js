@@ -6,7 +6,7 @@ for (let card of cards) {
 
         window.location.href = `/video?id=${videoId}`
     })
-}
+} 
 
 
 
